@@ -1,1 +1,0 @@
-Hello, fs module typescript with node.js
